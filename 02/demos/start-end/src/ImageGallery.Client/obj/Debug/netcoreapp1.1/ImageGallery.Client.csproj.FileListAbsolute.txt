@@ -1,0 +1,14 @@
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\bin\Debug\netcoreapp1.1\ImageGallery.Client.deps.json
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\bin\Debug\netcoreapp1.1\ImageGallery.Client.runtimeconfig.json
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\bin\Debug\netcoreapp1.1\ImageGallery.Client.runtimeconfig.dev.json
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\bin\Debug\netcoreapp1.1\ImageGallery.Client.dll
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\bin\Debug\netcoreapp1.1\ImageGallery.Client.pdb
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\bin\Debug\netcoreapp1.1\ImageGallery.Model.dll
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\bin\Debug\netcoreapp1.1\ImageGallery.Model.pdb
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\obj\Debug\netcoreapp1.1\ImageGallery.Client.csprojAssemblyReference.cache
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\obj\Debug\netcoreapp1.1\ImageGallery.Client.csproj.CoreCompileInputs.cache
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\obj\Debug\netcoreapp1.1\ImageGallery.Client.AssemblyInfoInputs.cache
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\obj\Debug\netcoreapp1.1\ImageGallery.Client.AssemblyInfo.cs
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\obj\Debug\netcoreapp1.1\ImageGallery.Client.csproj.CopyComplete
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\obj\Debug\netcoreapp1.1\ImageGallery.Client.dll
+C:\Users\mtkamran\Documents\PluralSight Course OAuth2\02\demos\start-end\src\ImageGallery.Client\obj\Debug\netcoreapp1.1\ImageGallery.Client.pdb
